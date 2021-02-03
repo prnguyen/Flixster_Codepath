@@ -25,11 +25,11 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 App walkthrough in potrait orientation:
 With required and a few optional user stories completed
 
-<img src="walkthrough_portrait.gif" width=250><br>
+<img src="walkthrough_portrait.gif" width=350><br>
 
 App walkthrough in landscape orientation:
 
-<img src="walkthrough_landscape.gif" width=350><br>
+<img src="walkthrough_landscape.gif" width=450><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
