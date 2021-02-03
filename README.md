@@ -22,14 +22,12 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-App walkthrough in potrait orientation:
-With required and a few optional user stories completed
-
+App walkthrough in potrait orientation:  
+With required and a few optional user stories completed   
 <img src="walkthrough_portrait.gif" width=350><br>
 
-App walkthrough in landscape orientation:
-
-<img src="walkthrough_landscape.gif" width=450><br>
+App walkthrough in landscape orientation:   
+<img src="walkthrough_landscape.gif" width=550><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
