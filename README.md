@@ -8,7 +8,6 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ## Flixster Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -25,11 +24,12 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ### App Walkthough GIF
 App walkthrough in potrait and landscape orientations
 
-<img src="walkthrough_portrait.git" width=250><br>
-<img src="walkthrough_landscape.git" width=250><br>
+<img src="walkthrough_portrait.gif" width=250><br>
+<img src="walkthrough_landscape.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+- Learning Glide to add the loading placeholder graphic feature
 
 ### Open-source libraries used
 
