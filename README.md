@@ -29,7 +29,7 @@ With required and a few optional user stories completed
 
 App walkthrough in landscape orientation:
 
-<img src="walkthrough_landscape.gif" width=250><br>
+<img src="walkthrough_landscape.gif" width=350><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
